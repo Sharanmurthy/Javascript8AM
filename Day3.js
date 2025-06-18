@@ -5,6 +5,10 @@ let ab = [17,18,21,true,'Welcome',"Hai"]
 
 console.log(ab);
 
+function name(params) {
+    
+}
+
 //object
 
 let abj = {
